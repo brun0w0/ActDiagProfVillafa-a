@@ -168,3 +168,9 @@ h2 {
     transition: 0.2s ease-in-out;
     cursor: pointer;
 }
+
+#pie {
+    font-weight: 200;
+    background-color: rgba(56, 55, 55, 0.363);
+    padding: 10px;
+}
